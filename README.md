@@ -2,7 +2,8 @@
 
 
 
-- 🔭 I’m currently working on a new website project
+- 🔭 I’m currently working on a new **website project**
+- I'm actually _a beginner !_
 <!-- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
